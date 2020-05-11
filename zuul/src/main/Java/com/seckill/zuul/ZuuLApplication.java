@@ -11,6 +11,6 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 public class ZuuLApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ZuuLApplication.class);
+        SpringApplication.run(ZuuLApplication.class,args);
     }
 }
