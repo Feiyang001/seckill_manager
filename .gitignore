@@ -3,7 +3,27 @@
 ### Example user template
 
 # IntelliJ project files
+.project
+target
+
+.svn
+bin
+
+.metadata/
 .idea
+.recommenders/
+.settings
+.classpath
+*.classpath
+*.class
 *.iml
-out
-gen
+*.log
+*.jar
+*.war
+*.ear
+.gitignore
+*.MF
+*rebel.xml*
+.vertx/
+.DS_Store
+*.factorypath
